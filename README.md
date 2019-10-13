@@ -1,7 +1,7 @@
 # Hyperskill
 Here are some of my projects from Hyperskill 
 
-## Coffee Machine project (Java) [Check at Hyperskill](https://hyperskill.org/projects/33?goal=7)
+## 1. Coffee Machine project (Java) [Check at Hyperskill](https://hyperskill.org/projects/33?goal=7)
 
 #### Stage 1/6: Hello, coffee!
 Write a program that puts basic information on the screen: give the machine a chance to tell the customers what it’s doing!
